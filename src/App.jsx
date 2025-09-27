@@ -1,12 +1,12 @@
 
 import React from "react";
 import './App.css'
-import Navbar from "./components/Navbar.jsx";
-import Home from "./components/Home.jsx";
-import About from "./components/About.jsx";
-import Projects from "./components/Projects.jsx";
-import Skills from "./components/Skills.jsx";
-import Contact from "./components/Contact.jsx";
+import Navbar from "./Components/Navbar.jsx";
+import Home from "./Components/Home.jsx";
+import About from "./Components/About.jsx";
+import Projects from "./Components/Projects.jsx";
+import Skills from "./Components/Skills.jsx";
+import Contact from "./Components/Contact.jsx";
 import Footer from "./Components/Footer.jsx";
 
 
